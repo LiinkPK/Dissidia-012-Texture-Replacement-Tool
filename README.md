@@ -49,7 +49,7 @@ python app.py
    `Documents\PPSSPP\PSP\TEXTURES\ULES01505`
 3. Give it a display name (e.g. "Dissidia 012 EUR")
 4. Click the game in the sidebar to load it
-5. Make sure "textures.ini" is inside that folder.
+5. **Make sure "textures.ini" is inside that folder.**
 
 ---
 
