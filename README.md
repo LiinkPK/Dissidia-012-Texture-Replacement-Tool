@@ -82,7 +82,7 @@ It should maintain its hexadecimal string for the replacement to work.
 
 **Example:**
 
->If the filename is `08f8a0600867fb0f764f3a0d.png` do not change it to `KainPortrait_old.png` or PPSSPP_TRTwill not overwrite it.
+>If the filename is `08f8a0600867fb0f764f3a0d.png` do not change it to `KainPortrait_old.png` or PPSSPP will not overwrite it.
 ---
 
 <img width="522" height="356" alt="App1" src="https://github.com/user-attachments/assets/0968b850-b526-4976-b044-afacc18ddc63" /><img width="522" height="356" alt="App2" src="https://github.com/user-attachments/assets/0e4c2377-3d96-4d93-8eda-fe827a2fce6f" />
