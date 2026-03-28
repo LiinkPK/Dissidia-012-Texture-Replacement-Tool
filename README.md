@@ -25,33 +25,25 @@ A desktop tool for managing HD texture replacements for Dissidia 012 Final Fanta
 
 ---
 
-## How to use
+## Installation
 
 ### Windows
-1. Download `Dissidia 012 TRT.exe` from the [Releases](../../releases) page.
-2. Place it anywhere on your computer.
-3. Run it. **No installation required**.
+1. Download `Dissidia012TRT.exe` from the [Releases](../../releases) page.
+2. Place the file anywhere on your computer.
+3. Run `Dissidia012TRT.exe`. **No installation required**.
+4. If **Windows** blocks the app, click `Run anyway`. 
 
-### MacOS
-1. Download `mac.zip` from the [Releases](../../releases) page.
-2. Extract the zip file.
-3. Drag the `.app` file into your **Applications** folder.
-4. Run it from Applications.
-
-### Running from source
-Requirements:
-- Python 3.12
-- Pillow
-
-Install dependencies:
+### macOS
+1. Download `Dissidia012TRT.dmg` from the [Releases](../../releases) page.
+2. Open the file to mount the disk image.
+3. Drag `Dissidia 012 TRT.app` into your **Applications** folder. Replace if prompted.
+4. Open `terminal` and copy-paste the following code to allow mac to run the unsigned app:
 ```
-pip install pillow
+xattr -cr /Applications/Dissidia\ 012\ TRT.app/
 ```
 
-Run:
-```
-python app.py
-```
+5. Confirm by typing your password if prompted.
+6. Run it from Applications.
 
 ---
 
@@ -77,6 +69,16 @@ python app.py
 
 The entry will be written in the correct format and sorted alphabetically within its section.
 
+---
+
+## It is very important to **NOT** rename the original file.
+
+It should maintain its hexadecimal string for the replacement to work.
+
+**Example:**
+
+>If the filename is `0000000000000000668a48bc.png` do not change it to `AerithTexture_old.png` or PPSSPP will not overwrite it.
+---
 <img width="521" height="355" alt="1" src="https://github.com/user-attachments/assets/7018aad7-3e16-4164-9d89-a4678464106a" />
 <img width="521" height="355" alt="2" src="https://github.com/user-attachments/assets/b1ba26b2-bc45-49ad-93fa-7c4de47c721c" />
 
