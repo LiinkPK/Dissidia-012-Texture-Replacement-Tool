@@ -5,6 +5,7 @@ CHANGELOG =
         "Added the possibility to use same replaced texture filename for different unique hash entries."
         "Fixed app icon not showing on preview popups."
         "Removed the possibility to resize preview popups."
+        "[macOS] Fixed error when appending on mac: textures.ini file was being scrumbled and thus breaking the whole file."
 
     "v1.3":
         "After testing with other games, app has been renamed to 'PPSSPP Texture Replacement Tool'."

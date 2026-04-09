@@ -9,4 +9,3 @@ app.py
 *.py
 git rm --cached app.py
 git rm --cached app_mac.py
-*.dmg
