@@ -114,13 +114,13 @@ After appending the entries to the .ini file, make sure `texture replacement` is
 
 `Settings > Tools > Developer tools > Texture replacement > Replace textures`
 
-Feel free to test it and share your experience on [Issues](../../issues) or on our [Discord server](https://discord.gg/UxGzCkJ4CV).
+Feel free to test it and share your experience on [Issues](../../issues) or on our [Discord server](https://discord.gg/AeE7QSZavm).
 
 ---
 
 ## Links
 
-- 🎮 [Discord](https://discord.gg/UxGzCkJ4CV)
+- 🎮 [Discord](https://discord.gg/AeE7QSZavm)
 - 🐙 [GitHub](https://github.com/LiinkPK/Dissidia-012-HD-Textures)
 - 👾 [Reddit](https://www.reddit.com/r/dissidia/comments/1g6peh2/dissidia_012_hd_remastered_wip/)
 - 🎨 [Patreon](https://www.patreon.com/c/LinkG/membership)
