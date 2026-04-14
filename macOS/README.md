@@ -114,7 +114,7 @@ After appending the entries to the .ini file, make sure `texture replacement` is
 
 `Settings > Tools > Developer tools > Texture replacement > Replace textures`
 
-Feel free to test it and share your experience on [Issues](../../issues) or on our [Discord server](https://discord.gg/wbpgtKNSM7).
+Feel free to test it and share your experience on [Issues](../../issues) or on our [Discord server](https://discord.gg/UxGzCkJ4CV).
 
 ---
 
