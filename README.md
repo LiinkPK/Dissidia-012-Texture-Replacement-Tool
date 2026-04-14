@@ -120,7 +120,7 @@ Feel free to test it and share your experience on [Issues](../../issues) or on o
 
 ## Links
 
-- 🎮 [Discord](https://discord.gg/wbpgtKNSM7)
+- 🎮 [Discord](https://discord.gg/UxGzCkJ4CV)
 - 🐙 [GitHub](https://github.com/LiinkPK/Dissidia-012-HD-Textures)
 - 👾 [Reddit](https://www.reddit.com/r/dissidia/comments/1g6peh2/dissidia_012_hd_remastered_wip/)
 - 🎨 [Patreon](https://www.patreon.com/c/LinkG/membership)
