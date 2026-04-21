@@ -15,6 +15,11 @@ A desktop tool for managing HD texture replacements for any game running on [PPS
 
 ---
 
+<img width="521" height="356" alt="v1 4" src="https://github.com/user-attachments/assets/02264207-d39f-4486-948b-4e3ff43e0db6" />
+<img width="520" height="355" alt="App2" src="https://github.com/user-attachments/assets/cc8d48e3-26c1-4b6b-8a2d-a7fa40e3735c" />
+
+---
+
 ## Features
 
 - Browse and preview original and replacement PNG textures side by side
@@ -26,6 +31,9 @@ A desktop tool for managing HD texture replacements for any game running on [PPS
 - Game history sidebar — save multiple game folders and switch between them
 - Dark and light theme toggle
 - Open `textures.ini` directly from the app
+- **[BETA]** Added a `Hash Sorter` function. It does work, but it still needs polishing. It reads hash filenames from files on `new` folder, then reads the `textures.ini` file and checks for duplicates. Then, tells which textures have been replaced already, which haven't, how many, and then separates them in different folders.
+
+<img width="625" height="537" alt="Sorter" src="https://github.com/user-attachments/assets/2b14a303-9cc0-43ac-aa0d-69d3843ec6fb" />
 
 ---
 
@@ -71,7 +79,7 @@ xattr -cr /Applications/TRT_PPSSPP.app/
 5. Choose a **Category** and **Sub-Category** if applicable.
 6. Click **Append to textures.ini**.
 
-The entry will be written in the correct format and sorted alphabetically within its section.
+The entry will be written in lower-case, in the correct format and sorted alphabetically within its section.
 
 > **Do not include spaces or invalid characters. Type everything together or separate it using - or _. Can include numbers.**
 ---
@@ -83,13 +91,6 @@ It should maintain its hexadecimal string for the replacement to work.
 **Example:**
 
 >If the filename is `08f8a0600867fb0f764f3a0d.png` do not change it to `KainPortrait_old.png` or PPSSPP will not overwrite it.
----
-
-<img width="521" height="356" alt="v1 4" src="https://github.com/user-attachments/assets/02264207-d39f-4486-948b-4e3ff43e0db6" /><img width="520" height="355" alt="App2" src="https://github.com/user-attachments/assets/cc8d48e3-26c1-4b6b-8a2d-a7fa40e3735c" />
-
-
-<img width="407" height="539" alt="Kain3" src="https://github.com/user-attachments/assets/abe74b37-29e7-4e76-bb1d-98de56c474e7" />
-
 ---
 
 ## textures.ini format
@@ -106,13 +107,16 @@ The tool uses `>` for top-level categories and `>>` for sub-categories:
 00000000000000000e58e631 = JobCards/WhiteMage.png
 ```
 
----
 
 ## PPSSPP Settings
 
 After appending the entries to the .ini file, make sure `texture replacement` is enabled in PPSSPP:
 
 `Settings > Tools > Developer tools > Texture replacement > Replace textures`
+
+<img width="271" height="359" alt="Kain3" src="https://github.com/user-attachments/assets/abe74b37-29e7-4e76-bb1d-98de56c474e7" />
+
+---
 
 Feel free to test it and share your experience on [Issues](../../issues) or on our [Discord server](https://discord.gg/AeE7QSZavm).
 
