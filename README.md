@@ -2,6 +2,7 @@
 
 A desktop tool for managing HD texture replacements for any game running on [PPSSPP](https://github.com/hrydgard/PPSSPP).
 
+> [!NOTE]
 > Previously called **_Dissidia 012 Texture Replacement Tool_**.
 >
 > Title has been changed after testing the tool with several games and seeing that it works with all that were tested. Also, PPSSPP's creator [hrydgard](github.com/hrydgard/) asked for the tool to be renamed, since its previous name made it look too official.
@@ -67,6 +68,7 @@ xattr -cr /Applications/TRT_PPSSPP.app/
 3. Give it a display name (e.g. "Dissidia 012 EUR").
 4. Game's `texture.ini` and its folder will be loaded when selecting the game.
 
+> [!IMPORTANT]
 > **Make sure `textures.ini` is inside that folder or else appending won't work as intented.**
 
 ---
@@ -81,6 +83,7 @@ xattr -cr /Applications/TRT_PPSSPP.app/
 
 The entry will be written in lower-case, in the correct format and sorted alphabetically within its section.
 
+> [!CAUTION]
 > **Do not include spaces or invalid characters. Type everything together or separate it using - or _. Can include numbers.**
 ---
 
