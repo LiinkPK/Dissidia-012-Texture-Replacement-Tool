@@ -15,9 +15,8 @@ A desktop tool for managing HD texture replacements for any game running on [PPS
 - macOS
 
 ---
-
-<img width="521" height="356" alt="v1 4" src="https://github.com/user-attachments/assets/02264207-d39f-4486-948b-4e3ff43e0db6" />
-<img width="520" height="355" alt="App2" src="https://github.com/user-attachments/assets/cc8d48e3-26c1-4b6b-8a2d-a7fa40e3735c" />
+<img width="521" height="356" alt="v1 6" src="https://github.com/user-attachments/assets/b5a4f2ce-f0d7-4d1c-aa86-cce942d7de5e" />
+<img width="520" height="355" alt="App2" src="https://github.com/user-attachments/assets/951f200b-b6b1-47f1-9544-b0884f0e774d" />
 
 ---
 
@@ -32,9 +31,9 @@ A desktop tool for managing HD texture replacements for any game running on [PPS
 - Game history sidebar — save multiple game folders and switch between them
 - Dark and light theme toggle
 - Open `textures.ini` directly from the app
-- **[BETA]** Added a `Hash Sorter` function. It does work, but it still needs polishing. It reads hash filenames from files on `new` folder, then reads the `textures.ini` file and checks for duplicates. Then, tells which textures have been replaced already, which haven't, how many, and then separates them in different folders.
+- Added a `Hash Sorter` function. It reads hash filenames from files on `new` folder, then reads the `textures.ini` file and checks for duplicates. Then, tells which textures have been replaced already, which haven't, how many, and then separates them in different folders.
 
-<img width="625" height="537" alt="Sorter" src="https://github.com/user-attachments/assets/2b14a303-9cc0-43ac-aa0d-69d3843ec6fb" />
+<img width="625" height="537" alt="Sorter" src="https://github.com/user-attachments/assets/d874ce41-dd95-4d68-99f7-d40e6ea52330" />
 
 ---
 
