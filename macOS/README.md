@@ -120,13 +120,13 @@ After appending the entries to the .ini file, make sure `texture replacement` is
 
 ---
 
-Feel free to test it and share your experience on [Issues](../../issues) or on our [Discord server](https://discord.gg/AeE7QSZavm).
+Feel free to test it and share your experience on [Issues](../../issues) or on our [Discord server](https://discord.gg/W9rcyMJ7br).
 
 ---
 
 ## Links
 
-- 🎮 [Discord](https://discord.gg/AeE7QSZavm)
+- 🎮 [Discord](https://discord.gg/W9rcyMJ7br)
 - 🐙 [GitHub](https://github.com/LiinkPK/Dissidia-012-HD-Textures)
 - 👾 [Reddit](https://www.reddit.com/r/dissidia/comments/1g6peh2/dissidia_012_hd_remastered_wip/)
 - 🎨 [Patreon](https://www.patreon.com/c/LinkG/membership)
