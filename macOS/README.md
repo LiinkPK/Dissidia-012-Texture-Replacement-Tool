@@ -131,7 +131,7 @@ Feel free to test it and share your experience on [Issues](../../issues) or on o
 - 👾 [Reddit](https://www.reddit.com/r/dissidia/comments/1g6peh2/dissidia_012_hd_remastered_wip/)
 - 🎨 [Patreon](https://www.patreon.com/c/LinkG/membership)
 - 💙 [PayPal](https://www.paypal.com/paypalme/liinkpk)
-- 🎓 [Portfolio](liinkpk.github.io)
+- 🎓 [Portfolio](https://liinkpk.github.io)
 
 ---
 
